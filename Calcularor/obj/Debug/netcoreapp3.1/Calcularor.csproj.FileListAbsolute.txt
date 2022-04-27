@@ -1,0 +1,14 @@
+Z:\мИСП-19-1\мИСП-19-1\СТАРОСТИН\3 курс\Управление проектами\ПР\ПР6\Calcularor\Calcularor\bin\Debug\netcoreapp3.1\Calcularor.exe
+Z:\мИСП-19-1\мИСП-19-1\СТАРОСТИН\3 курс\Управление проектами\ПР\ПР6\Calcularor\Calcularor\bin\Debug\netcoreapp3.1\Calcularor.deps.json
+Z:\мИСП-19-1\мИСП-19-1\СТАРОСТИН\3 курс\Управление проектами\ПР\ПР6\Calcularor\Calcularor\bin\Debug\netcoreapp3.1\Calcularor.runtimeconfig.json
+Z:\мИСП-19-1\мИСП-19-1\СТАРОСТИН\3 курс\Управление проектами\ПР\ПР6\Calcularor\Calcularor\bin\Debug\netcoreapp3.1\Calcularor.runtimeconfig.dev.json
+Z:\мИСП-19-1\мИСП-19-1\СТАРОСТИН\3 курс\Управление проектами\ПР\ПР6\Calcularor\Calcularor\bin\Debug\netcoreapp3.1\Calcularor.dll
+Z:\мИСП-19-1\мИСП-19-1\СТАРОСТИН\3 курс\Управление проектами\ПР\ПР6\Calcularor\Calcularor\bin\Debug\netcoreapp3.1\Calcularor.pdb
+Z:\мИСП-19-1\мИСП-19-1\СТАРОСТИН\3 курс\Управление проектами\ПР\ПР6\Calcularor\Calcularor\obj\Debug\netcoreapp3.1\Calcularor.csproj.AssemblyReference.cache
+Z:\мИСП-19-1\мИСП-19-1\СТАРОСТИН\3 курс\Управление проектами\ПР\ПР6\Calcularor\Calcularor\obj\Debug\netcoreapp3.1\Calcularor.GeneratedMSBuildEditorConfig.editorconfig
+Z:\мИСП-19-1\мИСП-19-1\СТАРОСТИН\3 курс\Управление проектами\ПР\ПР6\Calcularor\Calcularor\obj\Debug\netcoreapp3.1\Calcularor.AssemblyInfoInputs.cache
+Z:\мИСП-19-1\мИСП-19-1\СТАРОСТИН\3 курс\Управление проектами\ПР\ПР6\Calcularor\Calcularor\obj\Debug\netcoreapp3.1\Calcularor.AssemblyInfo.cs
+Z:\мИСП-19-1\мИСП-19-1\СТАРОСТИН\3 курс\Управление проектами\ПР\ПР6\Calcularor\Calcularor\obj\Debug\netcoreapp3.1\Calcularor.csproj.CoreCompileInputs.cache
+Z:\мИСП-19-1\мИСП-19-1\СТАРОСТИН\3 курс\Управление проектами\ПР\ПР6\Calcularor\Calcularor\obj\Debug\netcoreapp3.1\Calcularor.dll
+Z:\мИСП-19-1\мИСП-19-1\СТАРОСТИН\3 курс\Управление проектами\ПР\ПР6\Calcularor\Calcularor\obj\Debug\netcoreapp3.1\Calcularor.pdb
+Z:\мИСП-19-1\мИСП-19-1\СТАРОСТИН\3 курс\Управление проектами\ПР\ПР6\Calcularor\Calcularor\obj\Debug\netcoreapp3.1\Calcularor.genruntimeconfig.cache
